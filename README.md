@@ -562,6 +562,8 @@ EWfpootIGAzHe4XVYaI2GSMQwzm8HTOcZxhYldz4eJl7qmdgEn3U/eJfDnRiFJFBP83m4gcj7p678YOI
 [+] Response code: 200
 [+] Success !!!
 ```
+## CodeQL
+使用 CodeQL 的反序列化规则可以直接扫描出来此漏洞
 
 如果你有研究需求需要 JAR 文件，请通过邮箱联系我获取。
 
